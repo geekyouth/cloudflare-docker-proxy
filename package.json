@@ -1,7 +1,7 @@
 {
   "name": "cloudflare-docker-proxy",
   "private": true,
-  "description": "",
+  "description": "cloudflare-docker-proxy",
   "version": "1.0.0",
   "dependencies": {},
   "devDependencies": {
